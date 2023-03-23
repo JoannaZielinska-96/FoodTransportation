@@ -1,5 +1,3 @@
 # Database of transportation companies specializing in the transportation of foodstuffs
 
-Dabaseta contains information about foodstuffs and the transport companies that deal with their transportation. 
-It allows to see what criteria must be met for a cargo to be transported under certain conditions.
-The database makes it possible to note cargoes traveled and planned, inventory and the possibility of transporting cargoes by a transport company.
+The database contains information about food articles and the transportation companies involved in their transport. This enables the verification of criteria that must be met for a given load to be transported under specific conditions. The database also allows for recording past and planned shipments, monitoring inventory status, and facilitating transportation of loads by a transportation company.
